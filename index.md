@@ -110,3 +110,15 @@ bind -T vim-c-w j select-pane -D
 ## agentic-scrum
 
 https://github.com/atusy/agentic-scrum
+## dotfilesの先へ……
+
+* dotfiles由来の生産性向上は作業効率アップにとどまらない
+* 日常業務の生産性を向上させる力を手に入れろ！
+    * 課題に気付く力
+    * 課題を整理する力
+    * 課題を解決する力
+    * 課題を一般化する力
+* dotfilesなら
+    * 失敗できる
+    * 時間をかけられる
+    * 他者を模倣できる
