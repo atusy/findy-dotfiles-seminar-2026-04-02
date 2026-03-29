@@ -95,7 +95,13 @@ bind -T vim-c-w j select-pane -D
 > Blog: オレのNeovim見て！ 2024
 > <https://blog.atusy.net/2024/12/09/awesome-my-neovim/#範囲選択>
 
-## jab.nvim
+## 思考に沿ってカーソルを動かす
+
+[atusy/jab.nvim](https://github.com/atusy/jab.nvim)
+
+* 読み上げている場所へさくっと移動したい
+* 既存手法だと日本語対応に弱い
+* migemoでASCII検索を日本語に拡張しよう
 
 > Blog: オレのNeovim見て！ 2024
 > <https://blog.atusy.net/2024/12/09/awesome-my-neovim/#行内の移動>
