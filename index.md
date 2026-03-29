@@ -73,16 +73,15 @@ atusyは1と3がメイン
 * Vimを模倣して覚えやすく
     * pane移動を`M-w l`にすれば、Vimの`C-w l`っぽい！
 
-```
+```tmux
 bind-key M-w send-prefix
 bind-key -n M-w switch-client -T vim-c-w
 bind -T vim-c-w h select-pane -L
 bind -T vim-c-w j select-pane -D
-bind -T vim-c-w k select-pane -U
-bind -T vim-c-w l select-pane -R
+# 以下略
 ```
 
-## treemonkey.nvim
+<https://github.com/atusy/dotfiles/blob/669bf2f3fe4cddd22937f2355a80eb9cf4151627/dot_tmux.conf?plain=1#L38-L52>
 
 - 範囲選択ってよく使うし確実にしたい
     - 関数の名前、定義全体など
