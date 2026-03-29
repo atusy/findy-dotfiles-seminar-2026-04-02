@@ -6,7 +6,7 @@ Atusy
 
 ## ![height:1em](images/headphone.jpg) atusy
 
-- エンジニアリングマネージャー兼デベロッパー
+- Engineering Manager兼Dev
 - 好きなもの
     - Neovim
     - コーヒー（焙煎からやる）
