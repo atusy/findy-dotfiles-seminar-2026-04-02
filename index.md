@@ -83,7 +83,11 @@ bind -T vim-c-w j select-pane -D
 
 <https://github.com/atusy/dotfiles/blob/669bf2f3fe4cddd22937f2355a80eb9cf4151627/dot_tmux.conf?plain=1#L38-L52>
 
-- 範囲選択ってよく使うし確実にしたい
+## テキスト選択を軽快に正確に
+
+[atusy/treemonkey.nvim](https://github.com/atusy/treemonkey.nvim)
+
+- 意味のある範囲をさくっと選択したい
     - 関数の名前、定義全体など
 - 既存手法だと一意な選択が難しいことある
 - 一意じゃないところは選択肢を提示して選べるようにしよう
