@@ -170,9 +170,36 @@ bind -T vim-c-w j select-pane -D
 
 ---
 
-## agentic-scrum
+## agentic-scrum（WIP）
 
-https://github.com/atusy/agentic-scrum
+[atusy/agentic-scrum](https://github.com/atusy/agentic-scrum)
+
+- AIに良い感じに開発してほしいがSDD（仕様駆動）は重い
+    - 仕様が決まりきってない
+    - 試すに値する最小の価値から育てたい
+- それってウォーターフォールに対するアジャイルやん
+- スクラム経験を活かして、agentic-scrumを作ってみよう
+
+---
+
+## Vibe codingの限界
+
+- 明後日の方向に走ると、作業のほとんどが無駄になる
+- 大量のコミットの人力レビューに限界がある
+
+---
+
+## AIでスクラムの限界を超える
+
+- 人の制約から解き放て
+    - タイムボックスは時間配分の最適化
+        - AIの速度なら、時間より質
+    - 定期イベントの調整
+        - AIならスケジュール調整不要
+- AIに最適なスクラムイベント再考
+
+---
+
 ## dotfilesの先へ……
 
 - dotfiles由来の生産性向上は作業効率アップにとどまらない
