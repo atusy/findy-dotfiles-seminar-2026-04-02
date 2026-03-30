@@ -28,7 +28,7 @@ h1 {
 
 <!-- https://findy.connpass.com/event/387107/ -->
 
-Atusy
+## ![height:1em](images/headphone.jpg) atusy
 
 ---
 
@@ -41,7 +41,7 @@ Atusy
 
 ---
 
-## 著書: Rが生産性を高める
+## 著書: Rが生産性を高める (2022)
 
 〜データ分析ワークフロー効率化の実践
 
@@ -51,9 +51,9 @@ Atusy
 
 ## フォローよろしく！
 
-- <https://github.com/atusy>
 - <https://x.com/Atsushi776>
 - <https://blog.atusy.net>
+- <https://github.com/atusy>
 
 ---
 
