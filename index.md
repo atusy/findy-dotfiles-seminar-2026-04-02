@@ -19,7 +19,7 @@ strong {
   color: #AD5555;
 }
 h1 {
-  font-size: 1.3em;
+  font-size: 2em;
 }
 </style>
 
