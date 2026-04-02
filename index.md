@@ -32,24 +32,33 @@ h1 {
 
 ---
 
-## ![height:1em](images/headphone.jpg) atusy
+## ![height:1em](images/headphone.jpg) atusyのお仕事
 
 - 現職
     - At Mark Inc. (<https://attm.co.jp/>)
     - 人材マッチングサービスの開発
+        - Rust・TypeScript (React Router + Mantine)・k8s・Nixなど
     - Engineering Manager兼Dev
 - 経歴
     - 地質コンサル → データサイエンティスト → BEエンジニア → フルスタックエンジニア → now
     - 福岡女子大学でキャリア講師として呼んでいただいたりも
-- 好きなもの
-    - Neovim
-    - コーヒー（焙煎からやる）
 
 ---
 
-## 著書: Rが生産性を高める (2022)
+## ![height:1em](images/headphone.jpg) atusyの好きなもの
 
-〜データ分析ワークフロー効率化の実践
+- Neovim
+- コーヒー（焙煎からやる）
+- 音楽・ヘッドホン
+- 自作キーボード（Keyball 61）
+- スキー
+
+---
+
+## ![height:1em](images/headphone.jpg) atusyの著書
+
+Rが生産性を高める
+〜データ分析ワークフロー効率化の実践 (2022)
 
 ![height:10em](https://gihyo.jp/assets/images/cover/2022/9784297125240.jpg)
 
