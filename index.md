@@ -34,7 +34,13 @@ h1 {
 
 ## ![height:1em](images/headphone.jpg) atusy
 
-- Engineering Manager兼Dev
+- 現職
+    - At Mark Inc. <https://attm.co.jp/>
+    - 人材マッチングサービスの開発
+    - Engineering Manager兼Dev
+- 経歴
+    - 地質コンサル → データサイエンティスト → BEエンジニア → フルスタックエンジニア → now
+    - 福岡女子大学でキャリア講師として呼んでいただいたりも
 - 好きなもの
     - Neovim
     - コーヒー（焙煎からやる）
