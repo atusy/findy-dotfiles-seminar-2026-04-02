@@ -35,7 +35,7 @@ h1 {
 ## ![height:1em](images/headphone.jpg) atusy
 
 - 現職
-    - At Mark Inc. <https://attm.co.jp/>
+    - At Mark Inc. (<https://attm.co.jp/>)
     - 人材マッチングサービスの開発
     - Engineering Manager兼Dev
 - 経歴
