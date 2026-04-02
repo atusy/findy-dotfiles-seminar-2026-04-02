@@ -48,6 +48,7 @@ h1 {
 ## ![height:1em](images/headphone.jpg) atusyの好きなもの
 
 - Neovim
+- OSS（[atusy/kakehashi](https://github.com/atusy/kakehashi)）
 - コーヒー（焙煎からやる）
 - 音楽・ヘッドホン
 - 自作キーボード（Keyball 61）
