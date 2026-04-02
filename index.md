@@ -126,6 +126,7 @@ atusyは1と3がメイン
     - 使ったことあるディレクトリ（`zoxide`）
     - クローン済みGitリポジトリ（`ghq`）
     - Neovimプラグイン（`$HOME/.local/share/nvim/lazy/*`）
+- `zi`コマンドで行きたい場所に行けるように
 
 ---
 
